@@ -1,0 +1,31 @@
+case_id,stratum,symbol,cik,name,tier,archetype,statement,basis,metric,role,status,reason,candidate_tag,excluded_by_original_rule
+filled-01,filled,A,0001090872,Agilent Technologies,1,pharma-biotech,balance,annual,Accounts payable,in-dropdown,filled,,,false
+filled-02,filled,AA,0001675149,Alcoa,1,industrial,balance,annual,Accounts payable,in-dropdown,filled,,,false
+filled-03,filled,AACG,0001420529,ATA Creativity Global,2,generic,cash,annual,Capital expenditure,in-dropdown,filled,,,false
+filled-04,filled,AACI,0002092897,Armada Acquisition Corp. III,1,generic,balance,annual,Cash and cash equivalents,in-dropdown,filled,,,false
+filled-05,filled,AACO,0002099906,Abony Acquisition Corp. I,1,generic,balance,annual,Retained earnings,in-dropdown,filled,,,false
+filled-06,filled,AAL,0000006201,American Airlines Group,1,industrial,balance,annual,Accounts payable,in-dropdown,filled,,,false
+partial-01,partial,AA,0001675149,Alcoa,1,industrial,balance,annual,Long-term investments,in-dropdown,gappy,not_reported,,false
+partial-02,partial,AACG,0001420529,ATA Creativity Global,2,generic,balance,annual,Current maturities of long-term debt,in-dropdown,gappy,not_reported,,false
+partial-03,partial,AAL,0000006201,American Airlines Group,1,industrial,cash,annual,Dividends paid,in-dropdown,gappy,not_reported,,false
+partial-04,partial,AAME,0000008177,Atlantic American Corporation,1,insurer,cash,annual,Change in accounts payable,in-dropdown,gappy,not_reported,,false
+partial-05,partial,AAMI,0001748824,Acadian Asset Management Inc.,1,capital-markets,balance,annual,Common stock,in-dropdown,gappy,not_reported,,false
+partial-06,partial,AAON,0000824142,AAON,1,industrial,balance,annual,Deferred tax assets,in-dropdown,gappy,not_reported,,false
+mapped_tag_gap-01,mapped_tag_gap,AACO,0002099906,Abony Acquisition Corp. I,1,generic,balance,annual,Total current liabilities,dropdown,hidden,sec_has_mapped_tag,us-gaap:LiabilitiesCurrent,false
+mapped_tag_gap-02,mapped_tag_gap,AAOI,0001158114,"Applied Optoelectronics, Inc.",1,semis-hardware,balance,annual,Deferred tax assets,in-dropdown,hidden,sec_has_mapped_tag,us-gaap:DeferredIncomeTaxAssetsNet,false
+mapped_tag_gap-03,mapped_tag_gap,AAPL,0000320193,Apple Inc.,1,software,balance,annual,Intangible assets,in-dropdown,hidden,sec_has_mapped_tag,us-gaap:IntangibleAssetsNetExcludingGoodwill,false
+mapped_tag_gap-04,mapped_tag_gap,ABBV,0001551152,AbbVie,1,pharma-biotech,balance,annual,Other current assets,in-dropdown,hidden,sec_has_mapped_tag,us-gaap:PrepaidExpenseAndOtherAssetsCurrent,false
+mapped_tag_gap-05,mapped_tag_gap,ABNB,0001559720,Airbnb,1,consumer,balance,annual,Receivables,in-dropdown,hidden,sec_has_mapped_tag,us-gaap:AccountsReceivableNetCurrent,false
+mapped_tag_gap-06,mapped_tag_gap,ACA,0001739445,"Arcosa, Inc.",1,industrial,balance,annual,Treasury stock,in-dropdown,gappy,sec_has_mapped_tag,us-gaap:TreasuryStockValue,false
+alternative_tag_gap-01,alternative_tag_gap,A,0001090872,Agilent Technologies,1,pharma-biotech,balance,annual,Deferred tax assets,in-dropdown,hidden,sec_has_alt_tag,us-gaap:DeferredTaxAssetsLiabilitiesNet,false
+alternative_tag_gap-02,alternative_tag_gap,AA,0001675149,Alcoa,1,industrial,balance,annual,Intangible assets,in-dropdown,hidden,sec_has_alt_tag,us-gaap:FiniteLivedIntangibleAssetsNet,false
+alternative_tag_gap-03,alternative_tag_gap,AACG,0001420529,ATA Creativity Global,2,generic,income,annual,Other operating expenses,in-dropdown,hidden,sec_has_alt_tag,us-gaap:GeneralAndAdministrativeExpense,false
+alternative_tag_gap-04,alternative_tag_gap,AACO,0002099906,Abony Acquisition Corp. I,1,generic,balance,annual,Accounts payable,in-dropdown,hidden,sec_has_alt_tag,us-gaap:AccountsPayableAndAccruedLiabilitiesCurrent,false
+alternative_tag_gap-05,alternative_tag_gap,AAL,0000006201,American Airlines Group,1,industrial,balance,annual,Long-term debt,in-dropdown,hidden,sec_has_alt_tag,us-gaap:LongTermDebt,false
+alternative_tag_gap-06,alternative_tag_gap,AAME,0000008177,Atlantic American Corporation,1,insurer,balance,annual,Deferred tax assets,in-dropdown,hidden,sec_has_alt_tag,us-gaap:DeferredTaxAssetsLiabilitiesNet,false
+apparent_missing-01,apparent_missing,A,0001090872,Agilent Technologies,1,pharma-biotech,balance,annual,Cash & short-term investments,in-dropdown,hidden,not_reported,,false
+apparent_missing-02,apparent_missing,AA,0001675149,Alcoa,1,industrial,balance,annual,Cash & short-term investments,in-dropdown,hidden,not_reported,,false
+apparent_missing-03,apparent_missing,AAC,0002128115,Ares Acquisition Corporation III Class A Ordinary Shares,2,generic,balance,annual,Accounts payable,in-dropdown,hidden,no_statement_rows,,false
+apparent_missing-04,apparent_missing,AACG,0001420529,ATA Creativity Global,2,generic,balance,annual,Accounts payable,in-dropdown,hidden,not_reported,,false
+apparent_missing-05,apparent_missing,AACI,0002092897,Armada Acquisition Corp. III,1,generic,balance,annual,Accounts payable,in-dropdown,hidden,not_reported,,false
+apparent_missing-06,apparent_missing,AACO,0002099906,Abony Acquisition Corp. I,1,generic,cash,annual,Capital expenditure,in-dropdown,hidden,no_statement_rows,,false

@@ -1,0 +1,23 @@
+{
+  "date_locked": "2026-10-26",
+  "basis": "annual",
+  "ordering": [
+    "symbol_ASC_unicode",
+    "metric_ASC_unicode",
+    "statement_ASC_unicode"
+  ],
+  "per_stratum": "first six distinct CIKs; missing CIK uses ticker",
+  "strata": {
+    "filled": "status=filled",
+    "partial": "status=gappy excluding mapped/alternative tag reasons",
+    "mapped_tag_gap": "reason=sec_has_mapped_tag",
+    "alternative_tag_gap": "reason=sec_has_alt_tag",
+    "apparent_missing": "status=hidden; reason in not_reported, unmapped_not_reported, no_statement_rows, no_sec_file"
+  },
+  "exclusions": [
+    "not_applicable",
+    "per_share_withheld",
+    "formula_blank_by_design"
+  ],
+  "sampling_limit": "Purposeful lexical case studies; not random or representative. Issuers may recur across strata. No replacement for inaccessible filings."
+}

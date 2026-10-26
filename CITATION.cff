@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the research report when using its findings or data."
+title: "Why Financial Statement Data Goes Missing: A Reproducible SEC Filing Coverage Audit"
+type: dataset
+authors:
+  - family-names: Sreekumar
+    given-names: Avinash
+    affiliation: StockPortfolio.pro
+version: 1.0.0
+date-released: 2026-10-26
+url: "https://github.com/avisre/sec-filing-research"
+license: CC-BY-4.0

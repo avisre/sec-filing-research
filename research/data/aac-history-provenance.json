@@ -1,0 +1,7 @@
+{
+  "url": "https://data.sec.gov/submissions/CIK0002128115.json",
+  "retrieved_date": "2026-10-26",
+  "additional_history_files": [],
+  "source_sha256": "eaf768dc6e4881f1abc70a8a67f7820996f88dbd045c4bea91cda6e3f71b0827",
+  "projection": "Only form/date/accession/document fields retained; issuer contacts excluded."
+}

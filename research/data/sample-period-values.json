@@ -1,0 +1,960 @@
+[
+  {
+    "case_id": "filled-01",
+    "symbol": "A",
+    "metric": "Accounts payable",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-10-31",
+        "currency": "USD",
+        "value": 570000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-10-31",
+        "currency": "USD",
+        "value": 540000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-10-31",
+        "currency": "USD",
+        "value": 418000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-10-31",
+        "currency": "USD",
+        "value": 580000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-10-31",
+        "currency": "USD",
+        "value": 446000000
+      }
+    ]
+  },
+  {
+    "case_id": "filled-02",
+    "symbol": "AA",
+    "metric": "Accounts payable",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": 1938000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": 1805000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": 1714000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": 1757000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": 1674000000
+      }
+    ]
+  },
+  {
+    "case_id": "filled-03",
+    "symbol": "AACG",
+    "metric": "Capital expenditure",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "CNY",
+        "value": -1281220
+      },
+      {
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "currency": "CNY",
+        "value": -20024903
+      },
+      {
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "currency": "CNY",
+        "value": -2240101
+      },
+      {
+        "period_start": "2022-01-01",
+        "period_end": "2022-12-31",
+        "currency": "CNY",
+        "value": -1618338
+      },
+      {
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "currency": "CNY",
+        "value": -4451589
+      }
+    ]
+  },
+  {
+    "case_id": "filled-04",
+    "symbol": "AACI",
+    "metric": "Cash and cash equivalents",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": 4347
+      }
+    ]
+  },
+  {
+    "case_id": "filled-05",
+    "symbol": "AACO",
+    "metric": "Retained earnings",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": -99715
+      }
+    ]
+  },
+  {
+    "case_id": "filled-06",
+    "symbol": "AAL",
+    "metric": "Accounts payable",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": 2840000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": 2455000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": 2353000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": 2149000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": 1772000000
+      }
+    ]
+  },
+  {
+    "case_id": "partial-01",
+    "symbol": "AA",
+    "metric": "Long-term investments",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": 1397000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": 0
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "partial-02",
+    "symbol": "AACG",
+    "metric": "Current maturities of long-term debt",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "CNY",
+        "value": 1000000
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "CNY",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "partial-03",
+    "symbol": "AAL",
+    "metric": "Dividends paid",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": "2022-01-01",
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": 0
+      },
+      {
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "case_id": "partial-04",
+    "symbol": "AAME",
+    "metric": "Change in accounts payable",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": 5500000
+      },
+      {
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": 3215000
+      },
+      {
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": -1662000
+      },
+      {
+        "period_start": "2022-01-01",
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "partial-05",
+    "symbol": "AAMI",
+    "metric": "Common stock",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "case_id": "partial-06",
+    "symbol": "AAON",
+    "metric": "Deferred tax assets",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": 0
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": 836000
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": 0
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "mapped_tag_gap-01",
+    "symbol": "AACO",
+    "metric": "Total current liabilities",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "mapped_tag_gap-02",
+    "symbol": "AAOI",
+    "metric": "Deferred tax assets",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "mapped_tag_gap-03",
+    "symbol": "AAPL",
+    "metric": "Intangible assets",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-09-27",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-09-28",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-09-30",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-09-24",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-09-25",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "mapped_tag_gap-04",
+    "symbol": "ABBV",
+    "metric": "Other current assets",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "mapped_tag_gap-05",
+    "symbol": "ABNB",
+    "metric": "Receivables",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "mapped_tag_gap-06",
+    "symbol": "ACA",
+    "metric": "Treasury stock",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": 0
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": 0
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": 0
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "case_id": "alternative_tag_gap-01",
+    "symbol": "A",
+    "metric": "Deferred tax assets",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-10-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "alternative_tag_gap-02",
+    "symbol": "AA",
+    "metric": "Intangible assets",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "alternative_tag_gap-03",
+    "symbol": "AACG",
+    "metric": "Other operating expenses",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": "2025-01-01",
+        "period_end": "2025-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": "2024-01-01",
+        "period_end": "2024-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": "2023-01-01",
+        "period_end": "2023-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": "2022-01-01",
+        "period_end": "2022-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": "2021-01-01",
+        "period_end": "2021-12-31",
+        "currency": "CNY",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "alternative_tag_gap-04",
+    "symbol": "AACO",
+    "metric": "Accounts payable",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "alternative_tag_gap-05",
+    "symbol": "AAL",
+    "metric": "Long-term debt",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "alternative_tag_gap-06",
+    "symbol": "AAME",
+    "metric": "Deferred tax assets",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "apparent_missing-01",
+    "symbol": "A",
+    "metric": "Cash & short-term investments",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-10-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-10-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "apparent_missing-02",
+    "symbol": "AA",
+    "metric": "Cash & short-term investments",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "USD",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "apparent_missing-03",
+    "symbol": "AAC",
+    "metric": "Accounts payable",
+    "status_matches_frozen": true,
+    "periods": []
+  },
+  {
+    "case_id": "apparent_missing-04",
+    "symbol": "AACG",
+    "metric": "Accounts payable",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2024-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2023-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2022-12-31",
+        "currency": "CNY",
+        "value": null
+      },
+      {
+        "period_start": null,
+        "period_end": "2021-12-31",
+        "currency": "CNY",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "apparent_missing-05",
+    "symbol": "AACI",
+    "metric": "Accounts payable",
+    "status_matches_frozen": true,
+    "periods": [
+      {
+        "period_start": null,
+        "period_end": "2025-12-31",
+        "currency": "USD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "case_id": "apparent_missing-06",
+    "symbol": "AACO",
+    "metric": "Capital expenditure",
+    "status_matches_frozen": true,
+    "periods": []
+  }
+]

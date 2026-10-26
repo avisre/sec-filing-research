@@ -1,0 +1,96 @@
+{
+  "frozen_date": "2026-10-26",
+  "files": [
+    {
+      "file": "audit-shards/0.json",
+      "sha256": "6d27d2759318d5432d5bee77864f1ee81e3795b35a65c576e5ed569cf69318c8",
+      "bytes": 7256578
+    },
+    {
+      "file": "audit-shards/1.json",
+      "sha256": "bcf96e97a4cc44971542db56faaf80f973fccee62569efb80446a4d65d1561e7",
+      "bytes": 7414085
+    },
+    {
+      "file": "audit-shards/10.json",
+      "sha256": "440eb54c42a32b38cdfe4768661c4a59249075141855e3476116c4a937bf4983",
+      "bytes": 7274062
+    },
+    {
+      "file": "audit-shards/11.json",
+      "sha256": "ff57bd8d963f7b9071b6b5739815ba928d195576feda5d327fc1f6d44677fd64",
+      "bytes": 7167814
+    },
+    {
+      "file": "audit-shards/2.json",
+      "sha256": "c68ca8111876a9e6a66fa5991f746013b3f9341ad0538133265588b516996136",
+      "bytes": 7215383
+    },
+    {
+      "file": "audit-shards/3.json",
+      "sha256": "aba2fdfb54b0022c3c851bce2903140949bad3f7f1f2037ebbeae489da130421",
+      "bytes": 7223990
+    },
+    {
+      "file": "audit-shards/4.json",
+      "sha256": "01949235c62940113eaaa513d01bcd181a55d2173a1513571017c42513a69178",
+      "bytes": 7130889
+    },
+    {
+      "file": "audit-shards/5.json",
+      "sha256": "ec3b32946bdf001aa95ee992a293c3f48ef0b1293d5803ac6bbb5fad8fd9680e",
+      "bytes": 7359765
+    },
+    {
+      "file": "audit-shards/6.json",
+      "sha256": "31db3506cb7774bbc94798a71d2afd49bf40ecbdb459f1589aed2d096c69da03",
+      "bytes": 7255116
+    },
+    {
+      "file": "audit-shards/7.json",
+      "sha256": "80518daaae433267ec9535a40be965efcd4a4ce5bf2cda1bb43efd08f1d133bb",
+      "bytes": 7094758
+    },
+    {
+      "file": "audit-shards/8.json",
+      "sha256": "fbc91b2461488451c217b8d09e7591db598234399bba1da0e563433dcf37390e",
+      "bytes": 7327438
+    },
+    {
+      "file": "audit-shards/9.json",
+      "sha256": "065426ad9ca375dbed8569dfe40f28a0a47bbaff447697777a97833c7cb9a69c",
+      "bytes": 7243803
+    },
+    {
+      "file": "docs/statement-audit/by-stock.csv",
+      "sha256": "ae8692384f54223d0aa7513f84213044c3d4826226c185efef29686002e78da8",
+      "bytes": 7429206
+    },
+    {
+      "file": "docs/statement-audit/by-row.csv",
+      "sha256": "78b8567978baaf06c9fbf309866b5e27f39fdfd9b36d162e5f1d768c64f15499",
+      "bytes": 76879
+    },
+    {
+      "file": "frontend/data/public-stock-index.json",
+      "sha256": "7ba4157dc6772f43158160327edbe35f1410381fc60a84479780c1a4e34fa751",
+      "bytes": 8035869
+    },
+    {
+      "file": "frontend/data/statement-completeness.json",
+      "sha256": "f39e8fee21fecd2a4d373b49df8a8476553e01f1c141c44b8f15ad05a6ccd7e5",
+      "bytes": 381296
+    },
+    {
+      "file": "scripts/audit-statement-rows.js",
+      "sha256": "42ce2c6f78f804f0efed712ec5a891996724b14b08d972f64aad0000e569529e",
+      "bytes": 24295
+    },
+    {
+      "file": "frontend-v2/assets/company.js",
+      "sha256": "1102960ac4eeddaf6d17a97d46b5cd955880e45abf509b2e700bd450d652164b",
+      "bytes": 195026
+    }
+  ],
+  "limitation": "Hashes identify author-retained originals; this is not a claim those complete upstream inputs are publicly downloadable."
+}

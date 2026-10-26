@@ -1,0 +1,12 @@
+{
+  "audit_generated_at": "2026-10-25T14:20:34.063Z",
+  "stock_index_generated_at": "2026-10-25T14:05:03.756Z",
+  "frozen_date": "2026-10-26",
+  "filing_review_date": "2026-10-26",
+  "method_version": "1.0.0",
+  "original_export_reconciliation": "Exact for all 5608 security rows and all 304 aggregate rows",
+  "snapshot_limit": "Frozen detailed labels and statistics are reproducible. The original SEC bulk archive and every upstream historical extraction input are not redistributed; original end-to-end extraction is not claimed reproducible.",
+  "period_limit": "Up to five available annual and eight available quarterly records; not fixed calendar-year or quarter panels.",
+  "sample_period_values": "Read-only supplemental projection from local issuer data; all 30 row statuses match frozen labels. Individual historical values were not exhaustively validated.",
+  "historical_comparison": "Omitted: the older narrative summary describes a different population and row definition."
+}

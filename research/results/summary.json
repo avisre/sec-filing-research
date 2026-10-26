@@ -1,0 +1,413 @@
+{
+  "snapshot_generated_at": "2026-10-25T14:20:34.063Z",
+  "frozen_date": "2026-10-26",
+  "unit": "security \u00d7 statement \u00d7 basis \u00d7 presentation row; not individual financial facts",
+  "securities": 5608,
+  "tiers": {
+    "1": 4185,
+    "2": 1423
+  },
+  "distinct_known_ciks": 5525,
+  "securities_without_cik": 9,
+  "multiple_security_ciks": 62,
+  "securities_in_multiple_security_ciks": 136,
+  "extra_securities_over_canonical": 74,
+  "raw_row_observations": 852416,
+  "duplicate_observation_keys": 0,
+  "by_stock_mismatches": [],
+  "by_row_mismatches": [],
+  "exclusions": [
+    {
+      "basis": "annual",
+      "reason": "formula_blank_by_design",
+      "count": 2428
+    },
+    {
+      "basis": "annual",
+      "reason": "not_applicable",
+      "count": 27097
+    },
+    {
+      "basis": "annual",
+      "reason": "per_share_withheld",
+      "count": 1884
+    },
+    {
+      "basis": "quarterly",
+      "reason": "formula_blank_by_design",
+      "count": 2053
+    },
+    {
+      "basis": "quarterly",
+      "reason": "not_applicable",
+      "count": 27214
+    },
+    {
+      "basis": "quarterly",
+      "reason": "per_share_withheld",
+      "count": 1044
+    }
+  ],
+  "reasons": [
+    {
+      "basis": "annual",
+      "reason": "missing_unchecked",
+      "count": 14480
+    },
+    {
+      "basis": "annual",
+      "reason": "no_sec_file",
+      "count": 1296
+    },
+    {
+      "basis": "annual",
+      "reason": "no_statement_rows",
+      "count": 25230
+    },
+    {
+      "basis": "annual",
+      "reason": "not_reported",
+      "count": 108650
+    },
+    {
+      "basis": "annual",
+      "reason": "sec_has_alt_tag",
+      "count": 23089
+    },
+    {
+      "basis": "annual",
+      "reason": "sec_has_mapped_tag",
+      "count": 1389
+    },
+    {
+      "basis": "quarterly",
+      "reason": "missing_unchecked",
+      "count": 9741
+    },
+    {
+      "basis": "quarterly",
+      "reason": "no_sec_file",
+      "count": 1296
+    },
+    {
+      "basis": "quarterly",
+      "reason": "no_statement_rows",
+      "count": 43745
+    },
+    {
+      "basis": "quarterly",
+      "reason": "not_reported",
+      "count": 128485
+    },
+    {
+      "basis": "quarterly",
+      "reason": "sec_has_alt_tag",
+      "count": 21064
+    },
+    {
+      "basis": "quarterly",
+      "reason": "sec_has_mapped_tag",
+      "count": 5193
+    }
+  ],
+  "canonical_issuer_sensitivity": {
+    "selection": "lexicographically first ticker per CIK; missing CIKs separate",
+    "securities": 5534,
+    "annual_counts": {
+      "filled": 217598,
+      "hidden": 138008,
+      "gappy": 34162
+    },
+    "annual_filled_pct": 55.8276
+  },
+  "coverage": [
+    {
+      "tier": "1",
+      "basis": "annual",
+      "statement": "all",
+      "denominator": 295058,
+      "filled": 179691,
+      "partial": 23398,
+      "missing": 91969,
+      "filled_pct": 60.9002,
+      "partial_pct": 7.93,
+      "missing_pct": 31.1698
+    },
+    {
+      "tier": "1",
+      "basis": "annual",
+      "statement": "balance",
+      "denominator": 119205,
+      "filled": 72060,
+      "partial": 10261,
+      "missing": 36884,
+      "filled_pct": 60.4505,
+      "partial_pct": 8.6079,
+      "missing_pct": 30.9417
+    },
+    {
+      "tier": "1",
+      "basis": "annual",
+      "statement": "cash",
+      "denominator": 83124,
+      "filled": 48822,
+      "partial": 6578,
+      "missing": 27724,
+      "filled_pct": 58.7339,
+      "partial_pct": 7.9135,
+      "missing_pct": 33.3526
+    },
+    {
+      "tier": "1",
+      "basis": "annual",
+      "statement": "income",
+      "denominator": 92729,
+      "filled": 58809,
+      "partial": 6559,
+      "missing": 27361,
+      "filled_pct": 63.4203,
+      "partial_pct": 7.0733,
+      "missing_pct": 29.5064
+    },
+    {
+      "tier": "1",
+      "basis": "quarterly",
+      "statement": "all",
+      "denominator": 295025,
+      "filled": 167388,
+      "partial": 30920,
+      "missing": 96717,
+      "filled_pct": 56.7369,
+      "partial_pct": 10.4805,
+      "missing_pct": 32.7826
+    },
+    {
+      "tier": "1",
+      "basis": "quarterly",
+      "statement": "balance",
+      "denominator": 119209,
+      "filled": 70214,
+      "partial": 10990,
+      "missing": 38005,
+      "filled_pct": 58.8999,
+      "partial_pct": 9.2191,
+      "missing_pct": 31.881
+    },
+    {
+      "tier": "1",
+      "basis": "quarterly",
+      "statement": "cash",
+      "denominator": 83124,
+      "filled": 45679,
+      "partial": 7339,
+      "missing": 30106,
+      "filled_pct": 54.9528,
+      "partial_pct": 8.829,
+      "missing_pct": 36.2182
+    },
+    {
+      "tier": "1",
+      "basis": "quarterly",
+      "statement": "income",
+      "denominator": 92692,
+      "filled": 51495,
+      "partial": 12591,
+      "missing": 28606,
+      "filled_pct": 55.555,
+      "partial_pct": 13.5837,
+      "missing_pct": 30.8613
+    },
+    {
+      "tier": "2",
+      "basis": "annual",
+      "statement": "all",
+      "denominator": 99741,
+      "filled": 40974,
+      "partial": 11031,
+      "missing": 47736,
+      "filled_pct": 41.0804,
+      "partial_pct": 11.0596,
+      "missing_pct": 47.86
+    },
+    {
+      "tier": "2",
+      "basis": "annual",
+      "statement": "balance",
+      "denominator": 40515,
+      "filled": 15258,
+      "partial": 7035,
+      "missing": 18222,
+      "filled_pct": 37.6601,
+      "partial_pct": 17.3639,
+      "missing_pct": 44.9759
+    },
+    {
+      "tier": "2",
+      "basis": "annual",
+      "statement": "cash",
+      "denominator": 28395,
+      "filled": 10393,
+      "partial": 2262,
+      "missing": 15740,
+      "filled_pct": 36.6015,
+      "partial_pct": 7.9662,
+      "missing_pct": 55.4323
+    },
+    {
+      "tier": "2",
+      "basis": "annual",
+      "statement": "income",
+      "denominator": 30831,
+      "filled": 15323,
+      "partial": 1734,
+      "missing": 13774,
+      "filled_pct": 49.7,
+      "partial_pct": 5.6242,
+      "missing_pct": 44.6758
+    },
+    {
+      "tier": "2",
+      "basis": "quarterly",
+      "statement": "all",
+      "denominator": 100872,
+      "filled": 18985,
+      "partial": 15510,
+      "missing": 66377,
+      "filled_pct": 18.8209,
+      "partial_pct": 15.3759,
+      "missing_pct": 65.8032
+    },
+    {
+      "tier": "2",
+      "basis": "quarterly",
+      "statement": "balance",
+      "denominator": 40494,
+      "filled": 11932,
+      "partial": 13224,
+      "missing": 15338,
+      "filled_pct": 29.4661,
+      "partial_pct": 32.6567,
+      "missing_pct": 37.8772
+    },
+    {
+      "tier": "2",
+      "basis": "quarterly",
+      "statement": "cash",
+      "denominator": 28395,
+      "filled": 2696,
+      "partial": 691,
+      "missing": 25008,
+      "filled_pct": 9.4946,
+      "partial_pct": 2.4335,
+      "missing_pct": 88.0718
+    },
+    {
+      "tier": "2",
+      "basis": "quarterly",
+      "statement": "income",
+      "denominator": 31983,
+      "filled": 4357,
+      "partial": 1595,
+      "missing": 26031,
+      "filled_pct": 13.6229,
+      "partial_pct": 4.987,
+      "missing_pct": 81.3901
+    },
+    {
+      "tier": "all",
+      "basis": "annual",
+      "statement": "all",
+      "denominator": 394799,
+      "filled": 220665,
+      "partial": 34429,
+      "missing": 139705,
+      "filled_pct": 55.893,
+      "partial_pct": 8.7206,
+      "missing_pct": 35.3864
+    },
+    {
+      "tier": "all",
+      "basis": "annual",
+      "statement": "balance",
+      "denominator": 159720,
+      "filled": 87318,
+      "partial": 17296,
+      "missing": 55106,
+      "filled_pct": 54.6694,
+      "partial_pct": 10.829,
+      "missing_pct": 34.5016
+    },
+    {
+      "tier": "all",
+      "basis": "annual",
+      "statement": "cash",
+      "denominator": 111519,
+      "filled": 59215,
+      "partial": 8840,
+      "missing": 43464,
+      "filled_pct": 53.0986,
+      "partial_pct": 7.9269,
+      "missing_pct": 38.9745
+    },
+    {
+      "tier": "all",
+      "basis": "annual",
+      "statement": "income",
+      "denominator": 123560,
+      "filled": 74132,
+      "partial": 8293,
+      "missing": 41135,
+      "filled_pct": 59.9968,
+      "partial_pct": 6.7117,
+      "missing_pct": 33.2915
+    },
+    {
+      "tier": "all",
+      "basis": "quarterly",
+      "statement": "all",
+      "denominator": 395897,
+      "filled": 186373,
+      "partial": 46430,
+      "missing": 163094,
+      "filled_pct": 47.0761,
+      "partial_pct": 11.7278,
+      "missing_pct": 41.1961
+    },
+    {
+      "tier": "all",
+      "basis": "quarterly",
+      "statement": "balance",
+      "denominator": 159703,
+      "filled": 82146,
+      "partial": 24214,
+      "missing": 53343,
+      "filled_pct": 51.4367,
+      "partial_pct": 15.1619,
+      "missing_pct": 33.4014
+    },
+    {
+      "tier": "all",
+      "basis": "quarterly",
+      "statement": "cash",
+      "denominator": 111519,
+      "filled": 48375,
+      "partial": 8030,
+      "missing": 55114,
+      "filled_pct": 43.3783,
+      "partial_pct": 7.2006,
+      "missing_pct": 49.4212
+    },
+    {
+      "tier": "all",
+      "basis": "quarterly",
+      "statement": "income",
+      "denominator": 124675,
+      "filled": 55852,
+      "partial": 14186,
+      "missing": 54637,
+      "filled_pct": 44.7981,
+      "partial_pct": 11.3784,
+      "missing_pct": 43.8235
+    }
+  ]
+}

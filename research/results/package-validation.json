@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "annual_denominator": 394799,
+  "cases": 30,
+  "pdf_pages": 11,
+  "distinct_filing_links": 21,
+  "pdf_product_links": 1,
+  "statistical_invariants": "passed",
+  "case_selection": "passed",
+  "null_zero_separation": "passed",
+  "unresolved_case_retained": "passed",
+  "public_artifact_screen": "passed",
+  "visual_review": "Recorded separately; not certified by this script."
+}
