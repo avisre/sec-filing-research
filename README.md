@@ -34,6 +34,8 @@ This resource is published by the product's builder. The checklist can also be u
 
 ## Research companion
 
+[Published Zenodo report and data — DOI: 10.5281/zenodo.23657325](https://doi.org/10.5281/zenodo.23657325).
+
 [Read the research report](research/financial-statement-coverage-audit.pdf): **Why Financial Statement Data Goes Missing: A Reproducible SEC Filing Coverage Audit** by Avinash Sreekumar, StockPortfolio.pro (26 October 2026).
 
 The report examines a frozen product dataset and 30 original-filing cases, including unfavorable and unresolved findings. Coverage is not accuracy; the report is product-authored and not peer reviewed.
